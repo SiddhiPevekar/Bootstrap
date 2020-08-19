@@ -1,0 +1,80 @@
+#contact{
+	padding-top: 10px;
+}
+#info{
+	text-align: center;
+}
+#write{
+	margin-bottom: 30%;
+}
+#write h1{
+	font-size: 50px;
+}
+#work{
+	text-align: center;
+}
+#backg{
+	opacity: 0.7;
+}
+#button{
+	margin-top:50px;
+	border-radius: 50px;
+}
+#box{
+	margin-top: 80px;
+}
+#number{
+	margin-bottom: 100px;
+	margin-top: 30px;
+}
+#picture{
+	background-color: rgb(248,248,248);
+}
+#picture-content{
+	padding-top: 80px;
+	padding-bottom: 30px;
+}
+#info{
+	color: rgb(222,222,222);
+}
+#pics{
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	width: 70%;
+	height: auto;
+}
+#btn{
+	margin-top:10px;
+	margin-bottom:40px;
+	border-radius: 50px;
+}
+#data{
+	margin-top: 100px;
+}
+#data-end{
+	margin-top: 100px;
+	padding-bottom: 50px;
+	border-bottom: solid 1px rgb(232,232,232);
+}
+#textonimage h1{
+	font-size: 50px;
+}
+#qt{
+	margin-top: 40px;
+}
+#footer{
+	background-color: black;
+	color: white;
+}
+#footer-content{
+	padding-top: 50px;
+}
+#content{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+#content #headcontent{
+	margin-bottom: 50px;
+}
